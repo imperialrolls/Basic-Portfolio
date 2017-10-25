@@ -170,6 +170,16 @@ ul.nav-tabs {
 
 /* MAIN CONTENT - CONTACT */
 
+/* SIDEBAR */
+
+.sidebar a {
+	text-decoration: none;
+}
+
+.sidebar a img {
+	width: 32%;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
     width: 80%; /* Full width */
@@ -203,15 +213,6 @@ input[type=submit]:hover {
     padding: 20px;
 }
 
-/* SIDEBAR */
-
-.sidebar a {
-	text-decoration: none;
-}
-
-.sidebar a img {
-	width: 32%;
-}
 
 /* FOOTER */
 
