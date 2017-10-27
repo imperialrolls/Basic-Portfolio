@@ -121,6 +121,27 @@ ul.nav-tabs {
 
 /* MAIN CONTENT - PORTFOLIO */
 
+.portfolio-image {
+	position: relative;
+	float: left;
+	width: 48%;
+	margin-bottom: 20px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.portfolio-image img {
+	width: 100%;
+	margin: 0;
+}
+
+
 
 
 /* MAIN CONTENT - CONTACT */
