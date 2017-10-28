@@ -42,7 +42,7 @@ h1, h2, h3, h5 {
 .logo {
 	color: #fff;
 	padding: 12px;
-	background-color: #4aaaa5;
+	background-color: #F9AAA5;
 	display: inline-block;
 	border-width: 0px;
 }
@@ -65,7 +65,7 @@ ul.nav-tabs {
 
 .nav-tabs li a {
 	text-decoration: none;
-	color: #777;
+	color: #F96CA5;
 }
 
 .nav-tabs li a:hover {
